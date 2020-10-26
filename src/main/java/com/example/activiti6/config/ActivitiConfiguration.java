@@ -21,6 +21,7 @@ public class ActivitiConfiguration {
 
     @Autowired
     private DataSource dataSource;
+
     @Autowired
     private PlatformTransactionManager platformTransactionManager;
 
