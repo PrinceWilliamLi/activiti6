@@ -1,6 +1,7 @@
 package com.example.activiti6;
 
-import org.junit.jupiter.api.Test;
+import org.activiti.engine.impl.db.DbSchemaCreate;
+import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
